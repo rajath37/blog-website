@@ -1,0 +1,59 @@
+nav{
+    border: 3px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    box-shadow: 20px;
+   text-align: center;
+   color: aliceblue;
+}
+a:hover{
+   color: yellow;
+
+}
+#simple{
+    text-align: right;
+    border: 1px;
+    border-style:solid ;
+    border-color: white;
+    border-radius: 4px;
+    background-color: rgb(249, 250, 242);
+    text-decoration: solid;
+    color: rgba(4, 68, 18, 0.692);
+
+}
+#btn{
+    background: black;
+    color: aliceblue;
+    border-radius: 30px;
+    transition: transfrom 0.3s ease;
+    padding: 20px 40px;
+    position: relative;
+    margin: 30px;
+    margin-left: 45%;
+    margin-bottom: 100px;
+
+}
+#t{
+    color: black;
+    
+    margin-bottom: 100px;
+
+}
+#f{
+    text-align:center;
+    border: 1px;
+    border-radius: 10px;
+    margin:9px;
+    margin-top: 230px;
+    border-style: solid;
+}
+.div{
+    padding: 30px;
+    background-color: brown;
+    margin-right:  75%;
+    padding-bottom: 40px;
+border: 10px;
+float:left;
+}
